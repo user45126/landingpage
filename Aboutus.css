@@ -1,0 +1,22 @@
+.video4 {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+  .main{
+    position: relative;
+}
+
+  .text4{
+        position: absolute;
+        top:300;
+        left:270px;
+        justify-content: space-around;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        color:darkblue;
+  }
+
